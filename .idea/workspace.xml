@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95ab76a6-084a-4525-8f90-c8dfb65d1e45" name="Default" comment="Print a message">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mainpage/src/test/java/suitA/OpenPage.java" afterPath="$PROJECT_DIR$/Mainpage/src/test/java/suitA/OpenPage.java" />
+    <list default="true" id="95ab76a6-084a-4525-8f90-c8dfb65d1e45" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MavenProject1.iws" />
@@ -70,7 +69,7 @@
       <file leaf-file-name="OpenPage.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Mainpage/src/test/java/suitA/OpenPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="16" selection-start="290" selection-end="290" vertical-scroll-proportion="0.42358804" vertical-offset="0" max-vertical-offset="602">
+            <state line="9" column="19" selection-start="163" selection-end="163" vertical-scroll-proportion="0.19933555" vertical-offset="0" max-vertical-offset="602">
               <folding />
             </state>
           </provider>
@@ -347,13 +346,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
@@ -583,7 +582,11 @@
       <created>1388302354492</created>
       <updated>1388302354492</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Print a message">
+      <created>1388302617369</created>
+      <updated>1388302617369</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -715,7 +718,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Mainpage/src/test/java/suitA/OpenPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="16" selection-start="290" selection-end="290" vertical-scroll-proportion="0.42358804" vertical-offset="0" max-vertical-offset="602">
+        <state line="9" column="19" selection-start="163" selection-end="163" vertical-scroll-proportion="0.19933555" vertical-offset="0" max-vertical-offset="602">
           <folding />
         </state>
       </provider>
@@ -772,7 +775,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Mainpage</last-edited>
+          <last-edited>Generics</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
