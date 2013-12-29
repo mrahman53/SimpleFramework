@@ -13,6 +13,7 @@
         <module>Mainpage</module>
         <module>Generics</module>
     </modules>
+    <dependencyManagement>
     <dependencies>
 
         <dependency>
@@ -40,5 +41,6 @@
             <version>2.38.0</version>
         </dependency>
     </dependencies>
+    </dependencyManagement>
 
 </project>

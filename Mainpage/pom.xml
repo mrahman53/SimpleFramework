@@ -11,6 +11,7 @@
     <packaging>jar</packaging>
 
     <artifactId>Mainpage</artifactId>
+    <dependencyManagement>
     <dependencies>
         <dependency>
             <groupId>MavenProject1</groupId>
@@ -37,5 +38,6 @@
             <version>2.38.0</version>
         </dependency>
     </dependencies>
+    </dependencyManagement>
 
 </project>
