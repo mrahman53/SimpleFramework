@@ -10,6 +10,6 @@ public class OpenPage extends FirstPage{
 
     @Test
     public void UrlTest(){
-        OpenB();
+        OpenWebpage();
     }
 }

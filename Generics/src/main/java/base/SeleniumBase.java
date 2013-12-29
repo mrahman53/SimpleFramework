@@ -9,7 +9,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class SeleniumBase {
     public WebDriver driver = new FirefoxDriver();
 
- public void OpenB(){
+ public void OpenWebpage(){
      driver.get("http://cnn.com");
  }
 }
