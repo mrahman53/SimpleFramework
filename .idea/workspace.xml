@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95ab76a6-084a-4525-8f90-c8dfb65d1e45" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Generics/src/test/java/FirstTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mainpage/src/main/java/homePage/FirstPage.java" afterPath="$PROJECT_DIR$/Mainpage/src/main/java/homePage/FirstPage.java" />
+    <list default="true" id="95ab76a6-084a-4525-8f90-c8dfb65d1e45" name="Default" comment="Print a message">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mainpage/src/test/java/suitA/OpenPage.java" afterPath="$PROJECT_DIR$/Mainpage/src/test/java/suitA/OpenPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generics/src/main/java/base/SeleniumBase.java" afterPath="$PROJECT_DIR$/Generics/src/main/java/base/SeleniumBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MavenProject1.iws" />
@@ -74,7 +70,7 @@
       <file leaf-file-name="OpenPage.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Mainpage/src/test/java/suitA/OpenPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="45" selection-start="162" selection-end="162" vertical-scroll-proportion="0.20750988" vertical-offset="0" max-vertical-offset="506">
+            <state line="18" column="16" selection-start="290" selection-end="290" vertical-scroll-proportion="0.42358804" vertical-offset="0" max-vertical-offset="602">
               <folding />
             </state>
           </provider>
@@ -117,8 +113,8 @@
         <option value="$PROJECT_DIR$/Generics/pom.xml" />
         <option value="$PROJECT_DIR$/Mainpage/pom.xml" />
         <option value="$PROJECT_DIR$/Generics/src/main/java/base/SeleniumBase.java" />
-        <option value="$PROJECT_DIR$/Mainpage/src/test/java/suitA/OpenPage.java" />
         <option value="$PROJECT_DIR$/Mainpage/src/main/java/homePage/FirstPage.java" />
+        <option value="$PROJECT_DIR$/Mainpage/src/test/java/suitA/OpenPage.java" />
       </list>
     </option>
   </component>
@@ -583,6 +579,11 @@
       <created>1387741692875</created>
       <updated>1387741692875</updated>
     </task>
+    <task id="LOCAL-00001" summary="change name of method">
+      <created>1388302354492</created>
+      <updated>1388302354492</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -596,17 +597,17 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15238096" sideWeight="0.39983845" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21001616" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17528272" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15238096" sideWeight="0.60016155" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15238096" sideWeight="0.60016155" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -626,6 +627,9 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="change name of method" />
+    <MESSAGE value="Print a message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Print a message" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -711,7 +715,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Mainpage/src/test/java/suitA/OpenPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="45" selection-start="162" selection-end="162" vertical-scroll-proportion="0.20750988" vertical-offset="0" max-vertical-offset="506">
+        <state line="18" column="16" selection-start="290" selection-end="290" vertical-scroll-proportion="0.42358804" vertical-offset="0" max-vertical-offset="602">
           <folding />
         </state>
       </provider>

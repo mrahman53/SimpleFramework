@@ -10,6 +10,9 @@ public class OpenPage extends FirstPage{
 
     @Test
     public void UrlTest(){
+
+
         OpenWebpage();
+        System.out.println("A Firefox page will open");
     }
 }
